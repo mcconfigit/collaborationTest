@@ -67,8 +67,6 @@
       name="show_log.png" relativePath="DefaultUI/Buttons/show_log.png"/>
   <externalResources uuid="_pk_bwHYgEeSHELBrgOlIgg"
       name="show_log_down.png" relativePath="DefaultUI/Buttons/show_log_down.png"/>
-  <externalResources uuid="_8ZuekBBzEeavUNi6WFydqg"
-      name="splash.png" relativePath="customization/splash.png"/>
   <externalResources uuid="_Ae-AMBB1EeaxVtETEFLkSA"
       name="Build.png" relativePath="customization/doNotDelete/Build.png"/>
   <externalResources uuid="_2apLwCdCEeahG-Pj7x0wPA"
