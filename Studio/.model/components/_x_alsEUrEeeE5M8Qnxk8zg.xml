@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:ComponentTemplate xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_x_alsEUrEeeE5M8Qnxk8zg"
     name="T2">
@@ -7,4 +8,5 @@
       name="root">
     <parentPlugs uuid="_x_alskUrEeeE5M8Qnxk8zg" name="ParentPlug"/>
   </geometry>
+  <componentsUsingMe xsi:type="comp:Component" href="_r9N9gD-rEeen87LarUVbAg.xml#_r9N9gD-rEeen87LarUVbAg"/>
 </comp:ComponentTemplate>
