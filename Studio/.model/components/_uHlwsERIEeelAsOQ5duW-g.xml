@@ -3,6 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_uHlwsERIEeelAsOQ5duW-g" name="C2">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_-HRDIEU9Eee7bZx47QIrsQ"
+      name="Variable" visibility="800">
+    <domain uuid="_-HRDIUU9Eee7bZx47QIrsQ" name="local"
+        visibility="300">
+      <typeSet uuid="_-HRDIkU9Eee7bZx47QIrsQ" bitSet="393231"/>
+    </domain>
+  </variables>
   <geometry deletable="false" uuid="_uHlwsURIEeelAsOQ5duW-g"
       name="root">
     <parentPlugs uuid="_uHlwskRIEeelAsOQ5duW-g" name="ParentPlug"/>
