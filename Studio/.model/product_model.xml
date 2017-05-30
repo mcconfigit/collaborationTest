@@ -7,6 +7,9 @@
     debugGuiOnPreview="true" debugLevelPreview="DEBUG">
   <facets xsi:type="appl:TemplateInsertFacet" uuid="_GIFTUKTqEea8d6P1JTl01w"
       id="COMPONENTS"/>
+  <templates href="components/_xDP4YEUrEeeE5M8Qnxk8zg.xml#_xDP4YEUrEeeE5M8Qnxk8zg"/>
+  <templates href="components/_x_alsEUrEeeE5M8Qnxk8zg.xml#_x_alsEUrEeeE5M8Qnxk8zg"/>
+  <templates href="components/_yQbdMEUrEeeE5M8Qnxk8zg.xml#_yQbdMEUrEeeE5M8Qnxk8zg"/>
   <components href="components/_eqSg8Fc5EeWo-40Qyxiobw.xml#_eqSg8Fc5EeWo-40Qyxiobw"/>
   <components href="components/_q8cPEFc5EeWo-40Qyxiobw.xml#_q8cPEFc5EeWo-40Qyxiobw"/>
   <components href="components/_KH3RkHABEeSk24oMIozLgA.xml#_KH3RkHABEeSk24oMIozLgA"/>
