@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_r9N9gD-rEeen87LarUVbAg" name="Component">
   <template href="_x_alsEUrEeeE5M8Qnxk8zg.xml#_x_alsEUrEeeE5M8Qnxk8zg"/>
@@ -7,4 +8,37 @@
       name="root">
     <parentPlugs uuid="_r9N9gj-rEeen87LarUVbAg" name="ParentPlug"/>
   </geometry>
+  <roles deletable="false" uuid="_AO0roEXlEee82PTn4kK6Dg"
+      name="element.1" enabled="false" editable="false"
+      initValue="NONE" components="NONE, monica, ">
+    <facets xsi:type="comp:PlugFacet" uuid="_AO0rqkXlEee82PTn4kK6Dg"/>
+    <domain uuid="_AO0EkEXlEee82PTn4kK6Dg" name="local"
+        visibility="300" complete="true">
+      <typeSet uuid="_AO0EkUXlEee82PTn4kK6Dg" bitSet="65536"/>
+      <values uuid="_EaaQY0XnEee82PTn4kK6Dg" name="NONE"
+          editable="false" visibility="300"/>
+      <values uuid="_EaaQZEXnEee82PTn4kK6Dg" name="monica"
+          editable="false" visibility="300"/>
+    </domain>
+  </roles>
+  <roles deletable="false" uuid="_AO2g00XlEee82PTn4kK6Dg"
+      name="element.2" enabled="false" editable="false"
+      initValue="NONE" components="NONE, monica, ">
+    <facets xsi:type="comp:PlugFacet" uuid="_AO3H4EXlEee82PTn4kK6Dg"/>
+    <domain uuid="_AO2g0EXlEee82PTn4kK6Dg" name="local"
+        visibility="300" complete="true">
+      <typeSet uuid="_AO2g0UXlEee82PTn4kK6Dg" bitSet="65536"/>
+      <values uuid="_EacsoUXnEee82PTn4kK6Dg" name="NONE"
+          editable="false" visibility="300"/>
+      <values uuid="_EacsokXnEee82PTn4kK6Dg" name="monica"
+          editable="false" visibility="300"/>
+    </domain>
+  </roles>
+  <controllers xsi:type="comp:RackController" uuid="_9am3kEXkEee82PTn4kK6Dg"
+      name="Rack_Controller" columns="2" rows="1" components="NONE, monica, ">
+    <componentSizesTable uuid="_9aoFsEXkEee82PTn4kK6Dg"
+        name="Init_Sizes_Table">
+      <rows uuid="_INADJkXlEee82PTn4kK6Dg" componentName="monica"/>
+    </componentSizesTable>
+  </controllers>
 </comp:Component>
