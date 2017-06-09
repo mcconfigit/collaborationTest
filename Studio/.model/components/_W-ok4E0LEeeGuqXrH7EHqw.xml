@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_W-ok4E0LEeeGuqXrH7EHqw" name="finalTestComponent">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_d46PYE0LEeeGuqXrH7EHqw"
+      name="Variable" visibility="800">
+    <domain uuid="_d46PYU0LEeeGuqXrH7EHqw" name="local"
+        visibility="300">
+      <typeSet uuid="_d46PYk0LEeeGuqXrH7EHqw" bitSet="393231"/>
+    </domain>
+  </variables>
   <geometry deletable="false" uuid="_W-ok4U0LEeeGuqXrH7EHqw"
       name="root">
     <parentPlugs uuid="_W-ok4k0LEeeGuqXrH7EHqw" name="ParentPlug"/>
