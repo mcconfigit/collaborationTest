@@ -71,8 +71,6 @@
       name="Build.png" relativePath="customization/doNotDelete/Build.png"/>
   <externalResources uuid="_2apLwCdCEeahG-Pj7x0wPA"
       name="unset.png" relativePath="DefaultUI/StateShower/unset.png"/>
-  <externalResources uuid="_gCbIUE92Eee1LdHmq0zduA"
-      name="Book1.csv" relativePath="test/Book1.csv"/>
   <externalResources uuid="_6ZfisE92Eee1LdHmq0zduA"
       name="image (1).png" relativePath="test/image (1).png"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
