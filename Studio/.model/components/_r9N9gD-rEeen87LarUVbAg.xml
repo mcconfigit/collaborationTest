@@ -42,10 +42,5 @@
     </domain>
   </roles>
   <controllers xsi:type="comp:RackController" uuid="_9am3kEXkEee82PTn4kK6Dg"
-      name="Rack_Controller" columns="2" rows="1" components="NONE, monica, ">
-    <componentSizesTable uuid="_9aoFsEXkEee82PTn4kK6Dg"
-        name="Init_Sizes_Table">
-      <rows uuid="_INADJkXlEee82PTn4kK6Dg" componentName="monica"/>
-    </componentSizesTable>
-  </controllers>
+      name="Rack_Controller"/>
 </comp:Component>
