@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:Component xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
-    uuid="_Fn4JEEXnEee82PTn4kK6Dg" name="C1"
+    uuid="_Fn4JEEXnEee82PTn4kK6Dg" name="Component"
     toaPrefix="myTOA">
   <geometry deletable="false" uuid="_Fn4JEUXnEee82PTn4kK6Dg"
       name="root">
