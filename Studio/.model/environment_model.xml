@@ -7,7 +7,5 @@
     <server uuid="_GIKy4KTqEea8d6P1JTl01w"/>
   </system>
   <dataSources xsi:type="appl:DataSourceCsvSingle" uuid="_MxhC4E93Eee1LdHmq0zduA"
-      name="Data_Source_CSV_Single">
-    <internalSource href="../model.build#_nBlWAE96Eee1LdHmq0zduA"/>
-  </dataSources>
+      name="Data_Source_CSV_Single"/>
 </appl:EnvironmentModel>

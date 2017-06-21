@@ -7,32 +7,8 @@
     debugGuiOnPreview="true" debugLevelPreview="DEBUG">
   <facets xsi:type="appl:TemplateInsertFacet" uuid="_GIFTUKTqEea8d6P1JTl01w"
       id="COMPONENTS"/>
-  <templates href="components/_xDP4YEUrEeeE5M8Qnxk8zg.xml#_xDP4YEUrEeeE5M8Qnxk8zg"/>
-  <templates href="components/_x_alsEUrEeeE5M8Qnxk8zg.xml#_x_alsEUrEeeE5M8Qnxk8zg"/>
-  <templates href="components/_yQbdMEUrEeeE5M8Qnxk8zg.xml#_yQbdMEUrEeeE5M8Qnxk8zg"/>
-  <components href="components/_eqSg8Fc5EeWo-40Qyxiobw.xml#_eqSg8Fc5EeWo-40Qyxiobw"/>
-  <components href="components/_q8cPEFc5EeWo-40Qyxiobw.xml#_q8cPEFc5EeWo-40Qyxiobw"/>
-  <components href="components/_KH3RkHABEeSk24oMIozLgA.xml#_KH3RkHABEeSk24oMIozLgA"/>
-  <components href="components/_Z4wkQFc8EeWo-40Qyxiobw.xml#_Z4wkQFc8EeWo-40Qyxiobw"/>
-  <components href="components/_r9N9gD-rEeen87LarUVbAg.xml#_r9N9gD-rEeen87LarUVbAg"/>
-  <components href="components/_FGKnwECEEeeGpJF9n5E3Kw.xml#_FGKnwECEEeeGpJF9n5E3Kw"/>
   <components href="components/_Fn4JEEXnEee82PTn4kK6Dg.xml#_Fn4JEEXnEee82PTn4kK6Dg"/>
-  <components href="components/_GlckkEXnEee82PTn4kK6Dg.xml#_GlckkEXnEee82PTn4kK6Dg"/>
-  <components href="components/_HYWBIEXnEee82PTn4kK6Dg.xml#_HYWBIEXnEee82PTn4kK6Dg"/>
-  <components href="components/_HrauIEXnEee82PTn4kK6Dg.xml#_HrauIEXnEee82PTn4kK6Dg"/>
-  <components href="components/_W-ok4E0LEeeGuqXrH7EHqw.xml#_W-ok4E0LEeeGuqXrH7EHqw"/>
   <world href="world.xml#_8fNuADTNEeSDp-UE12WecQ"/>
-  <domains uuid="_2ZqEUEluEeSo87hK2eA7dQ" name="features">
-    <typeSet uuid="_GIF6YqTqEea8d6P1JTl01w" bitSet="458767"/>
-    <values uuid="_4l1A8EluEeSo87hK2eA7dQ" name="black"
-        editable="false" visibility="300"/>
-    <values uuid="_41X40EluEeSo87hK2eA7dQ" name="red"
-        editable="false" visibility="300"/>
-    <values uuid="_5dqA0EluEeSo87hK2eA7dQ" name="blue"
-        editable="false" visibility="300"/>
-    <values uuid="_6ajt8EluEeSo87hK2eA7dQ" name="green"
-        editable="false" visibility="300"/>
-  </domains>
   <features deletable="false" uuid="N65557" name="DefaultCursorColor"
       color="(255,151,0,255)"/>
   <features deletable="false" uuid="N65562" name="DefaultTransparent"
@@ -41,26 +17,6 @@
       color="(255,255,255,255)"/>
   <features deletable="false" uuid="N65572" name="DefaultColor"
       color="(0,0,0,255)"/>
-  <features uuid="_Kp1yEcUWEeKomJW_sT1cVA" name="white"
-      color="(255,255,255,255)"/>
-  <features uuid="_Dvuz8ce5EeK1ILHtYeZxPw" name="black"
-      displayName="Black" color="(0,0,0,255)"/>
-  <features uuid="_42WaIce5EeK1ILHtYeZxPw" name="red"
-      displayName="Red"/>
-  <features uuid="_IBz3sce6EeK1ILHtYeZxPw" name="green"
-      displayName="Green" color="(0,255,0,255)"/>
-  <features uuid="_QXiMgce6EeK1ILHtYeZxPw" name="yellow"
-      color="(255,255,0,255)"/>
-  <features uuid="_Yoadkce6EeK1ILHtYeZxPw" name="blue"
-      displayName="Blue" color="(0,0,255,255)"/>
-  <features uuid="_PJJhEcyMEeKPWN8WJ_Qi1w" name="gray"
-      color="(100,100,100,100)"/>
-  <features uuid="_dOfPsXkVEeOQkM8a0LjIiQ" name="brown"
-      displayName="Brown" color="(148,95,3,255)"/>
-  <features uuid="_xMl9EAHyEeS27ulxLc-PaQ" name="orange"
-      color="(255,151,0,255)"/>
-  <features uuid="_zyWRMGQEEeSDd6k47owxsA" name="transparent"
-      color="(0,0,0,0)"/>
   <tables deletable="false" uuid="_cqseUXSwEeO0QL2ZiJsN_Q"
       name="DefaultPriorityHigh">
     <rows uuid="_GIGhgaTqEea8d6P1JTl01w" in="init" out="100"/>
@@ -133,7 +89,5 @@
     <inTypeSet uuid="_GIHvnqTqEea8d6P1JTl01w" bitSet="458767"/>
     <outTypeSet uuid="_GIHvn6TqEea8d6P1JTl01w" bitSet="458767"/>
   </tables>
-  <modeldescription uuid="_GIIWoKTqEea8d6P1JTl01w" pmid="BuildModel">
-    <version uuid="_GIJkwKTqEea8d6P1JTl01w" major="1"/>
-  </modeldescription>
+  <modeldescription uuid="_GIIWoKTqEea8d6P1JTl01w" pmid="BuildModel"/>
 </comp:ProductModel>

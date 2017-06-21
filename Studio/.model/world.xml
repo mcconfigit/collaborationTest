@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <comp:World xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     deletable="false" uuid="_8fNuADTNEeSDp-UE12WecQ"
-    name="world">
-  <variables xsi:type="comp:DeclaredVariable" uuid="_OOp_gP2XEeah7Ljc9bpRlQ"
-      name="Variable" visibility="800">
-    <domain uuid="_OOp_gf2XEeah7Ljc9bpRlQ" name="local"
-        visibility="300">
-      <typeSet uuid="_OOp_gv2XEeah7Ljc9bpRlQ" bitSet="393231"/>
-      <values uuid="_SmTVMP2XEeah7Ljc9bpRlQ" name="value1"
-          editable="false" visibility="300"/>
-    </domain>
-  </variables>
-  <role uuid="_qucXoHAAEeSk24oMIozLgA" name="insertfree"
-      customType="insertfree">
-    <domain uuid="_qucXoXAAEeSk24oMIozLgA" name="local"
-        visibility="300">
-      <typeSet uuid="_GINPIKTqEea8d6P1JTl01w" bitSet="65536"/>
-      <values uuid="_7GD-AFc5EeWo-40Qyxiobw" name="link_owner_component"
-          editable="false" visibility="300"/>
-    </domain>
-  </role>
-  <viewPointsTwoD uuid="_x_QZwElnEeSga5qFy3girQ" name="ViewPoint_initial"
-      fieldOfView="784" isInitial="true" positionX="200"
-      positionY="200"/>
-</comp:World>
+    name="world"/>
