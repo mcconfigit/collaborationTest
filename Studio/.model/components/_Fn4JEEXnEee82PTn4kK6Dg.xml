@@ -5,16 +5,16 @@
     uuid="_Fn4JEEXnEee82PTn4kK6Dg" name="Component"
     toaPrefix="myTOA">
   <cursorTwoD uuid="_Gq2SMFggEeerE9U9JC3uVQ" name="Cursor"
-      twoDElementsColor="_HMowoFggEeerE9U9JC3uVQ"/>
+      twoDElementsColor="_HkEZMFggEeerE9U9JC3uVQ"/>
   <geometry deletable="false" uuid="_Fn4JEUXnEee82PTn4kK6Dg"
       name="root">
     <twoDElement xsi:type="comp:TwoDBox" uuid="_HMowoFggEeerE9U9JC3uVQ"
-        name="Box" cursorsUsingMeForColor="_Gq2SMFggEeerE9U9JC3uVQ">
+        name="Box">
       <bgColor href="../product_model.xml#N65567"/>
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDEllipse" uuid="_HkEZMFggEeerE9U9JC3uVQ"
-        name="Ellipse"/>
+        name="Ellipse" cursorsUsingMeForColor="_Gq2SMFggEeerE9U9JC3uVQ"/>
     <twoDElement xsi:type="comp:TwoDLine" uuid="_IOOJcFggEeerE9U9JC3uVQ"
         name="Line">
       <color href="../product_model.xml#N65572"/>
