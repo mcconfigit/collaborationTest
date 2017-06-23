@@ -5,12 +5,12 @@
     modelType="enterprise_2d" modelTemplateVersion="1">
   <externalResources uuid="_6ZfisE92Eee1LdHmq0zduA"
       name="image (1).png" relativePath="test/image (1).png"/>
-  <externalResources uuid="_hbYSEFf3EeeIUp75XqtooQ"
-      name="deleteRemote.csv" relativePath="test/deleteRemote.csv"/>
   <externalResources uuid="_hbdKkFf3EeeIUp75XqtooQ"
       name="modifyRemote.csv" relativePath="test/modifyRemote.csv"/>
   <externalResources uuid="_hbg08Ff3EeeIUp75XqtooQ"
       name="modifyRemote2.csv" relativePath="test/modifyRemote2.csv"/>
+  <externalResources uuid="_IvgjUFf5EeeIUp75XqtooQ"
+      name="addRemote.csv" relativePath="test/addRemote.csv"/>
   <productModel href=".model/product_model.xml#_GD7MEKTqEea8d6P1JTl01w"/>
   <exporterModel href=".model/exporter_model.xml#_GD4IwKTqEea8d6P1JTl01w"/>
   <guiModel href=".model/gui_model.xml#_GDdSAKTqEea8d6P1JTl01w"/>
