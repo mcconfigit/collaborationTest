@@ -5,8 +5,6 @@
     modelType="enterprise_2d" modelTemplateVersion="1">
   <externalResources uuid="_6ZfisE92Eee1LdHmq0zduA"
       name="image (1).png" relativePath="test/image (1).png"/>
-  <externalResources uuid="_hbTZkFf3EeeIUp75XqtooQ"
-      name="addRemote.csv" relativePath="test/addRemote.csv"/>
   <externalResources uuid="_hbYSEFf3EeeIUp75XqtooQ"
       name="deleteRemote.csv" relativePath="test/deleteRemote.csv"/>
   <externalResources uuid="_hbdKkFf3EeeIUp75XqtooQ"
