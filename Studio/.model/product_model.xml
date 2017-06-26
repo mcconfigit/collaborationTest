@@ -18,7 +18,7 @@
   <features deletable="false" uuid="N65572" name="DefaultColor"
       color="(0,0,0,255)"/>
   <completers xsi:type="comp:CompoundCompleter" uuid="_YpuCcFpYEeemnunajIDCDw"
-      name="Compound_Completer" completers="_ZDbi8FpYEeemnunajIDCDw _aO4pcFpYEeemnunajIDCDw"/>
+      name="Compound_Completer" completers="_a5g60FpYEeemnunajIDCDw _cSpQ8FpYEeemnunajIDCDw"/>
   <completers xsi:type="comp:CheckVariableCompleter"
       uuid="_ZDbi8FpYEeemnunajIDCDw" name="Check_Variable_Completer">
     <messages uuid="_ZDfNUFpYEeemnunajIDCDw" name="oktext"
