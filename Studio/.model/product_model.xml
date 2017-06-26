@@ -17,6 +17,29 @@
       color="(255,255,255,255)"/>
   <features deletable="false" uuid="N65572" name="DefaultColor"
       color="(0,0,0,255)"/>
+  <completers xsi:type="comp:CompoundCompleter" uuid="_YpuCcFpYEeemnunajIDCDw"
+      name="Compound_Completer" completers="_ZDbi8FpYEeemnunajIDCDw _aO4pcFpYEeemnunajIDCDw"/>
+  <completers xsi:type="comp:CheckVariableCompleter"
+      uuid="_ZDbi8FpYEeemnunajIDCDw" name="Check_Variable_Completer">
+    <messages uuid="_ZDfNUFpYEeemnunajIDCDw" name="oktext"
+        message="The configuration was validated and is complete"/>
+  </completers>
+  <completers xsi:type="comp:ItemTableCompleter" uuid="_aO4pcFpYEeemnunajIDCDw"
+      name="Item_Table_Completer"/>
+  <completers xsi:type="comp:CheckVariableCompleter"
+      uuid="_ahte0FpYEeemnunajIDCDw" name="Check_Variable_Completer1">
+    <messages uuid="_ahte0VpYEeemnunajIDCDw" name="oktext"
+        message="The configuration was validated and is complete"/>
+  </completers>
+  <completers xsi:type="comp:CheckVariableCompleter"
+      uuid="_a5g60FpYEeemnunajIDCDw" name="Check_Variable_Completer2">
+    <messages uuid="_a5g60VpYEeemnunajIDCDw" name="oktext"
+        message="The configuration was validated and is complete"/>
+  </completers>
+  <completers xsi:type="comp:ItemTableCompleter" uuid="_cAslUFpYEeemnunajIDCDw"
+      name="Item_Table_Completer1"/>
+  <completers xsi:type="comp:ItemTableCompleter" uuid="_cSpQ8FpYEeemnunajIDCDw"
+      name="Item_Table_Completer2"/>
   <tables deletable="false" uuid="_cqseUXSwEeO0QL2ZiJsN_Q"
       name="DefaultPriorityHigh">
     <rows uuid="_GIGhgaTqEea8d6P1JTl01w" in="init" out="100"/>

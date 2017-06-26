@@ -5,7 +5,9 @@
     uuid="_Fn4JEEXnEee82PTn4kK6Dg" name="Component"
     toaPrefix="myTOA">
   <cursorTwoD uuid="_Gq2SMFggEeerE9U9JC3uVQ" name="Cursor"
-      twoDElementsColor="_XGjWoFpEEeeenpiQYRwOCQ _Xsc5AFpEEeeenpiQYRwOCQ _YCMfgFpEEeeenpiQYRwOCQ"/>
+      twoDElementsColor="_TDP5QFpEEeeenpiQYRwOCQ _TecngFpEEeeenpiQYRwOCQ _T_Z_gFpEEeeenpiQYRwOCQ _XGjWoFpEEeeenpiQYRwOCQ _Xsc5AFpEEeeenpiQYRwOCQ _YCMfgFpEEeeenpiQYRwOCQ">
+    <facets xsi:type="comp:CursorTwoDColorFacet" uuid="_uKMXwFpMEeemnunajIDCDw"/>
+  </cursorTwoD>
   <geometry deletable="false" uuid="_Fn4JEUXnEee82PTn4kK6Dg"
       name="root">
     <twoDElement xsi:type="comp:TwoDBox" uuid="_HMowoFggEeerE9U9JC3uVQ"
@@ -20,14 +22,14 @@
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDBox" uuid="_TDP5QFpEEeeenpiQYRwOCQ"
-        name="Box1">
+        name="Box1" cursorsUsingMeForColor="_Gq2SMFggEeerE9U9JC3uVQ">
       <bgColor href="../product_model.xml#N65567"/>
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDEllipse" uuid="_TecngFpEEeeenpiQYRwOCQ"
-        name="Ellipse1"/>
+        name="Ellipse1" cursorsUsingMeForColor="_Gq2SMFggEeerE9U9JC3uVQ"/>
     <twoDElement xsi:type="comp:TwoDLine" uuid="_T_Z_gFpEEeeenpiQYRwOCQ"
-        name="Line1">
+        name="Line1" cursorsUsingMeForColor="_Gq2SMFggEeerE9U9JC3uVQ">
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDBox" uuid="_XGjWoFpEEeeenpiQYRwOCQ"
