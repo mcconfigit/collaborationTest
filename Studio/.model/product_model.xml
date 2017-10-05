@@ -8,6 +8,7 @@
   <facets xsi:type="appl:TemplateInsertFacet" uuid="_GIFTUKTqEea8d6P1JTl01w"
       id="COMPONENTS"/>
   <components href="components/_Fn4JEEXnEee82PTn4kK6Dg.xml#_Fn4JEEXnEee82PTn4kK6Dg"/>
+  <components href="components/_Mj60cHeHEeenKeb_p3nWoA.xml#_Mj60cHeHEeenKeb_p3nWoA"/>
   <world href="world.xml#_8fNuADTNEeSDp-UE12WecQ"/>
   <features deletable="false" uuid="N65557" name="DefaultCursorColor"
       color="(255,151,0,255)"/>

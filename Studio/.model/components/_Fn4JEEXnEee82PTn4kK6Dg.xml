@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:comp="http://virtubuil.com/schemas/comp.ecore"
     uuid="_Fn4JEEXnEee82PTn4kK6Dg" name="Component"
-    toaPrefix="myTOA">
+    componentClass="LINKOWNER" toaPrefix="myTOA">
   <cursorTwoD uuid="_Gq2SMFggEeerE9U9JC3uVQ" name="Cursor"
       twoDElementsColor="_TDP5QFpEEeeenpiQYRwOCQ _TecngFpEEeeenpiQYRwOCQ _T_Z_gFpEEeeenpiQYRwOCQ _XGjWoFpEEeeenpiQYRwOCQ _Xsc5AFpEEeeenpiQYRwOCQ _YCMfgFpEEeeenpiQYRwOCQ">
     <facets xsi:type="comp:CursorTwoDColorFacet" uuid="_uKMXwFpMEeemnunajIDCDw"/>
@@ -45,4 +45,15 @@
     </twoDElement>
     <parentPlugs uuid="_Fn4JEkXnEee82PTn4kK6Dg" name="ParentPlug"/>
   </geometry>
+  <roles uuid="_WO8mcKmnEeerVZrobIwHuQ" name="mySubLinkRole"
+      public="false" type="SUBLINK" lineInsertVariable="true">
+    <facets xsi:type="comp:PlugFacet" uuid="_WPD7MKmnEeerVZrobIwHuQ"/>
+    <facets xsi:type="comp:LineControllerFacet" uuid="_XlHvMKmnEeerVZrobIwHuQ"/>
+    <domain uuid="_WO-boKmnEeerVZrobIwHuQ" name="local"
+        visibility="300">
+      <typeSet uuid="_WO_CsKmnEeerVZrobIwHuQ" bitSet="65536"/>
+      <values uuid="_WO_CsamnEeerVZrobIwHuQ" name="NONE"
+          editable="false" visibility="300"/>
+    </domain>
+  </roles>
 </comp:Component>
